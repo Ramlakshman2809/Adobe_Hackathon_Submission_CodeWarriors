@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Datasets_in_Computational_Biology.pdf",
+      "Literature_Review_on_Recent_Advances.pdf",
+      "Overview_of_Computational_Biology_Methodologies.pdf",
+      "Performance_Benchmarks_in_Computational_Tools.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "processing_timestamp": "2025-07-28T19:44:30.345483"
+  },
+  "extracted_sections": [
+    {
+      "document": "Overview_of_Computational_Biology_Methodologies.pdf",
+      "section_title": "Introduction to Computational Biology",
+      "importance_rank": 1.0,
+      "page_number": 1
+    },
+    {
+      "document": "Literature_Review_on_Recent_Advances.pdf",
+      "section_title": "Conclusion and Future Directions",
+      "importance_rank": 0.8,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Overview_of_Computational_Biology_Methodologies.pdf",
+      "refined_text": "Computational biology involves the application of data-analytical and theoretical methods, mathematical\nmodeling, and computational simulation techniques to the study of biological systems.\nKey Methodologies\nSequence alignment, structural bioinformatics, systems biology, and molecular modeling are core\nmethodologies.\nTools like BLAST, ClustalW, and molecular dynamics simulations are frequently used.\nCase Studies and Applications\nApplications include gene expression analysis, protein structure prediction, and simulation of cellular\nprocesses.",
+      "page_number": 1
+    },
+    {
+      "document": "Literature_Review_on_Recent_Advances.pdf",
+      "refined_text": "The field is rapidly evolving with AI-driven insights and high-throughput experimentation becoming central.",
+      "page_number": 1
+    }
+  ]
+}

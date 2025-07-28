@@ -1,0 +1,80 @@
+{
+  "title": "Understanding Modern Documents",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Understanding Modern Documents",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Background",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "PDF Structure",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "This section describes the internal structure of a PDF file including objects, streams, and cross-reference tables.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Document Parsing Techniques",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Rule-Based Parsing",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Rule-based systems rely on fixed heuristics such as font size, position, and indentation.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "ML-Based Parsing",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Machine learning approaches can generalize better to unseen document layouts.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Challenges",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Multilingual Documents",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Processing documents with multiple languages is challenging due to script and direction differences.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Inconsistent Layouts",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Layout variance across PDFs requires robust generalization.",
+      "page": 3
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "persona": "PhD Researcher in Computational Biology",
+    "job": "Find methodologies for drug discovery",
+    "processed_at": "2025-07-28 17:59:08",
+    "documents_processed": 3
+  },
+  "results": [
+    {
+      "document": "paper2.pdf",
+      "page": 1,
+      "section_title": "Page 1",
+      "importance_rank": 0.2967798113822937,
+      "extracted_text": "Paper 2: Graph-Based Models in Protein Interaction Networks\nAbstract:\nGraph neural networks (GNNs) are used to model complex protein interactions in cellular pathways.\nMethodology:\nConstructed interaction graphs from STRING database and applied GCNs for link prediction.\nDatasets:\nDatasets from STRING, BioGRID, and DIP were utilized.\nPerformance:\nThe model improved F1 score by 10% over previous SOTA methods...."
+    },
+    {
+      "document": "paper3.pdf",
+      "page": 1,
+      "section_title": "Page 1",
+      "importance_rank": 0.2373397946357727,
+      "extracted_text": "Paper 3: Transfer Learning for Rare Disease Diagnosis\nAbstract:\nTransfer learning methods are applied to leverage large-scale medical imaging datasets for rare\ndisease prediction.\nMethodology:\nFine-tuned pretrained ResNet and EfficientNet models for classifying rare pathologies.\nDatasets:\nUsed NIH ChestXray14 and a rare disease subset curated from multiple hospitals.\nPerformance:\nReported AUC of 0.91 on unseen hospital data, highlighting generalization capabilities...."
+    },
+    {
+      "document": "paper1.pdf",
+      "page": 1,
+      "section_title": "Page 1",
+      "importance_rank": 0.219779834151268,
+      "extracted_text": "Paper 1: Deep Learning in Genomics\nAbstract:\nThis paper explores deep learning models used in genomics, including CNNs and RNNs for DNA\nsequence analysis.\nMethodology:\nWe applied convolutional layers to encode genomic sequences and used LSTMs to capture\nlong-term dependencies.\nDatasets:\nWe used ENCODE, TCGA, and synthetic DNA datasets.\nPerformance:\nAchieved 92% accuracy on the test set, outperforming traditional bioinformatics tools...."
+    }
+  ]
+}
